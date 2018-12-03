@@ -10,7 +10,7 @@ eureka:
 
 spring:
   application:
-    name: userui
+    name: userservice
 
 server:
   port: 80
